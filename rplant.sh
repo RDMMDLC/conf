@@ -1,0 +1,1 @@
+./cpuminer -a cpupower -o stratum+tcp://stratum-eu.rplant.xyz:7029 --cpu-affinity 0x3 --cpu-priority 3 -D -P -u CefFxmycWpVoFuqeTbZssBsCUipkfV1r5Y     
